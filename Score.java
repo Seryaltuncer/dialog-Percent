@@ -1,5 +1,5 @@
 
-package Score;
+package ScoreResult;
 
 import java.util.Scanner;
 
