@@ -1,5 +1,5 @@
 
-package ymt111_week10;
+package Score;
 
 import java.util.Scanner;
 
