@@ -1,4 +1,4 @@
-package ymt111_week07;
+package NumRev;
 
 import java.util.Scanner;
 
