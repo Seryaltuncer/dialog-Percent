@@ -1,8 +1,8 @@
-package ymt111_week12_ex1;
+package Homework_ex1;
 
 import javax.swing.*;
 
-public class YMT111_Week12_Ex1 {
+public class Homework_Ex1 {
 
     public static void main(String[] args) {
         String text;
