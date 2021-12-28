@@ -1,5 +1,5 @@
 
-package ymt111_week11_p2;
+package homework2;
 
 public class Instructor {
     private String name,
